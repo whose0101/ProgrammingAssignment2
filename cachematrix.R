@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+#creates matrix to calculate inverse
+
 makeCacheMatrix <- function(x = matrix()) {
   
   inv <- NULL                           #initiating null matrix  
